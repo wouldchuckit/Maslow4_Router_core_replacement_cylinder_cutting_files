@@ -5399,19 +5399,21 @@
         },
         {
           "name": "Tool Size",
-          "ioValue": 6.35
+          "ioValue": 3.175,
+          "currentEquation": "3.175"
         },
         {
           "name": "Passes",
-          "ioValue": 1
+          "ioValue": 3
         },
         {
           "name": "Speed",
-          "ioValue": 1500
+          "ioValue": 700
         },
         {
           "name": "Cut Through",
-          "ioValue": 0
+          "ioValue": 0,
+          "currentEquation": "0"
         },
         {
           "name": "Part Name",
