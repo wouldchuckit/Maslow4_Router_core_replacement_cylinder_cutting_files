@@ -2314,6 +2314,36 @@
       },
       "unitsKey": "MM",
       "fileTypeVersion": 1
+    },
+    {
+      "atomType": "Export",
+      "x": 0.7157497303128372,
+      "y": 0.3741339491916859,
+      "uniqueID": "id-257012",
+      "ioValues": [
+        {
+          "name": "geometry",
+          "ioValue": "__GEOMETRY_INPUT__"
+        },
+        {
+          "name": "File Type",
+          "ioValue": "SVG",
+          "currentEquation": "SVG"
+        },
+        {
+          "name": "Resolution (dpi)",
+          "ioValue": 96
+        },
+        {
+          "name": "Part Name",
+          "ioValue": "Maslow4_Router_core_replacement_cylinder_cutting_files",
+          "currentEquation": "Maslow4_Router_core_replacement_cylinder_cutting_files"
+        }
+      ],
+      "type": "SVG",
+      "resolution": 96,
+      "importIndex": 0,
+      "partName": "Maslow4_Router_core_replacement_cylinder_cutting_files"
     }
   ],
   "allConnectors": [
@@ -2326,6 +2356,11 @@
       "ap2Name": "number or geometry",
       "ap1ID": "id-256635",
       "ap2ID": "id-256281"
+    },
+    {
+      "ap2Name": "geometry",
+      "ap1ID": "id-256635",
+      "ap2ID": "id-257012"
     },
     {
       "ap2Name": "geometry",
